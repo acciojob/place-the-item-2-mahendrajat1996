@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.para1{
+	background-color:green;	
+}
+.para2{
+	background-color:red;	
+}
+.para3{
+	background-color:blue;	
+}
+.main{
+	dislpay:flex;
+	flex-wrap:wrap;
+	flex-direction:row-reverse:
+	justify-content:center;
+}
