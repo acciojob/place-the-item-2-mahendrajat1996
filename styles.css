@@ -1,17 +1,25 @@
 
 /* Your CSS Code here. */
 .para1{
-	background-color:green;	
+	background-color:green;
+	width:16px;
+	padding:20px;
 }
 .para2{
 	background-color:red;	
+	width:16px;
+	padding:20px;
 }
 .para3{
 	background-color:blue;	
+	width:16px;
+	padding:20px;
+}
+.para{
+	background-color:green;
+	width:16px;
+	padding:20px;
 }
 .main{
-	dislpay:flex;
-	flex-wrap:wrap;
-	flex-direction:row-reverse:
-	justify-content:center;
-}
+	width:100px;
+	display:flex;
